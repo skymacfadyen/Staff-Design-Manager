@@ -1,83 +1,64 @@
 # Staff-Design-Manager
 An application for the Staff Design Manager role at Github.
 
-# Project Title
-
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need befor you engage with this project:
 
-```
-Give examples
-```
 
-### Installing
+- [ ] Coffee (other beverages are acceptable)
+- [ ] An open mind
+- [ ] Internalized Github company values 
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+### Getting started
 
-```
-Give the example
-```
+[A letter to Sam Oschrin and Hubbers](https://github.com/skymacfadyen/Staff-Design-Manager/wiki/A-letter-to-Sam-Oschin-and-Hubbers) — The Repo Wiki
 
-And repeat
+[LinkedIn](https://www.linkedin.com/in/skymacfadyen/)
 
-```
-until finished
-```
+[Resume]
 
-End with an example of getting some data out of the system or using it for a little demo
+[Portfolio](https://macfadyen.co)
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+[Web version](https://macfadyen.co/github)
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Just gotta shoot me an email at: skymacfadyen@gmail.com 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Blood and sweat, no tears.
+* Dedication to craft
+* Relentless learning
+* Humility for diverse perspectives
+
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Contributing to Sky MacFadyen requires you work with him on one or more projects to develop your own perspective. You will inherently contribute to Sky MacFadyen. Here are a few contributors thus far:
+
+>I couldn’t help but be impressed with his tireless attention to detail and tenacity to create the best work possible.
+>— Sam Lopez
+
+>Schuyler is hands-down one of the most articulate and thoughtful designers I’ve ever had the opportunity to work with.
+>— Travis O'Niel
+
+>He always comes to the table with thoughtful questions and owns every single project he is a part of.
+>—Liz Bryson
+
+>He constantly challenges everyone to ask questions which result in better, sharper work.
+>— Danny Sauter
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Current version: 35.3.15
+I use [SemVer](http://semver.org/) for versioning. 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Schuyler MacFadyen**
 
 ## License
 
@@ -85,6 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* GitHub
+* GitHub CoPilot
+* All of the talented people I have worked with in my careers who helped shape the way I think about design, teams, and leadership.
+* Mom & Dad
