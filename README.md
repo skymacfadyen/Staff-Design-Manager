@@ -1,23 +1,21 @@
-# Staff-Design-Manager
-An application for the Staff Design Manager role at Github.
+# PROJECT: Schuyler MacFadyen
+Everything you need to consider the project for the Staff Design Manager role at Github.
 
-### Prerequisites
+## Prerequisites
 
-What things you need befor you engage with this project:
-
+What things you need before you engage with this project:
 
 - [ ] Coffee (other beverages are acceptable)
 - [ ] An open mind
 - [ ] Internalized Github company values 
 
-
-### Getting started
+## Getting started
 
 [A letter to Sam Oschrin and Hubbers](https://github.com/skymacfadyen/Staff-Design-Manager/wiki/A-letter-to-Sam-Oschin-and-Hubbers) — The Repo Wiki
 
 [LinkedIn](https://www.linkedin.com/in/skymacfadyen/)
 
-[Resume]
+[Resume](https://github.com/skymacfadyen/Staff-Design-Manager/issues/1#issue-1806371807)
 
 [Portfolio](https://macfadyen.co)
 
@@ -54,6 +52,7 @@ Contributing to Sky MacFadyen requires you work with him on one or more projects
 ## Versioning
 
 Current version: 35.3.15
+
 I use [SemVer](http://semver.org/) for versioning. 
 
 ## Authors
