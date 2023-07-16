@@ -1,5 +1,5 @@
-# PROJECT: Schuyler MacFadyen
-Everything you need to consider the project for the Staff Design Manager role at Github.
+# Schuyler MacFadyen
+Description: An application for the Staff Design Manager role at GitHub.
 
 ## Prerequisites
 
