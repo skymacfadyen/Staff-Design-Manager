@@ -71,3 +71,27 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * GitHub CoPilot
 * All of the talented people I have worked with across my career who helped shape the way I think about design, teams, and leadership
 * Mom, Dad, and my two sisters
+
+<!--
+               MMM.           .MMM
+               MMMMMMMMMMMMMMMMMMM
+               MMMMMMMMMMMMMMMMMMM      ____________________________
+              MMMMMMMMMMMMMMMMMMMMM    |                            |
+             MMMMMMMMMMMMMMMMMMMMMMM   | He's a good hire.          |
+            MMMMMMMMMMMMMMMMMMMMMMMM   |_   ________________________|
+            MMMM::- -:::::::- -::MMMM    |/
+             MM~:~   ~:::::~   ~:~MM
+        .. MMMMM::. .:::+:::. .::MMMMM ..
+              .MM::::: ._. :::::MM.
+                 MMMM;:::::;MMMM
+          -MM        MMMMMMM
+          ^  M+     MMMMMMMMM
+              MMMMMMM MM MM MM
+                   MM MM MM MM
+                   MM MM MM MM
+                .~~MM~MM~MM~MM~~.
+             ~~~~MM:~MM~~~MM~:MM~~~~
+            ~~~~~~==~==~~~==~==~~~~~~
+             ~~~~~~==~==~==~==~~~~~~
+                 :~==~==~==~==~~
+-->
