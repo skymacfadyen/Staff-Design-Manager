@@ -6,23 +6,20 @@ Description: An application for the Staff Design Manager role at GitHub.
 What things you need before you engage with this project:
 
 - [x] Your beverage of choice
-- [x] Music. Suggestion: [Endless, Magic Sword](https://open.spotify.com/album/09qFu5fzhhZsizdR6w8wqd?si=7E5LKjuoQkmbi5rEjwS0lA)
-- [x] An open mind
-- [x] Internalized Github company values 
+- [x] Music. Suggestion: [Endless, Magic Sword](https://open.spotify.com/album/09qFu5fzhhZsizdR6w8wqd?si=7E5LKjuoQkmbi5rEjwS0lA)<sup> Opens Spotify</sup>
+- [x] Enter a [Zen](https://ben.balter.com/2015/08/12/the-zen-of-github/) state of mind
 
 ## Getting started
 
-[A letter to Sam Oschrin and Hubbers](https://github.com/skymacfadyen/Staff-Design-Manager/wiki/A-letter-to-Sam-Oschin-and-Hubbers) — The Repo Wiki
+[A letter to Sam Oschrin and Hubbers](https://github.com/skymacfadyen/Staff-Design-Manager/wiki/A-letter-to-Sam-Oschin-and-Hubbers)<sup> Repo Wiki</sup>          
+[A letter to Sam Oschrin and Hubbers](https://macfadyen.co/github)<sup> Web version</sup>
 
-[Greenhouse job posting](https://boards.greenhouse.io/github/jobs/5107333)
+[LinkedIn](https://www.linkedin.com/in/skymacfadyen/)          
+[Resume](https://github.com/skymacfadyen/Staff-Design-Manager/issues/1#issue-1806371807)          
+[Portfolio](https://macfadyen.co)          
 
-[LinkedIn](https://www.linkedin.com/in/skymacfadyen/)
+[Job posting](https://boards.greenhouse.io/github/jobs/5107333)<sup> Greenhouse</sup>
 
-[Resume](https://github.com/skymacfadyen/Staff-Design-Manager/issues/1#issue-1806371807)
-
-[Portfolio](https://macfadyen.co)
-
-[Web version](https://macfadyen.co/github)
 
 ## Deployment
 
@@ -55,7 +52,7 @@ Contributing to Sky MacFadyen requires you work with him on one or more projects
 
 Current version: 35.3.15
 
-I use [SemVer](http://semver.org/) for versioning. 
+I use [SemVer](http://semver.org/) and the spacetime continuum for versioning. 
 
 ## Authors
 
