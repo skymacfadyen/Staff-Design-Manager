@@ -5,9 +5,10 @@ Everything you need to consider the project for the Staff Design Manager role at
 
 What things you need before you engage with this project:
 
-- [ ] Coffee (other beverages are acceptable)
-- [ ] An open mind
-- [ ] Internalized Github company values 
+- [x] Your beverage of choice
+- [x] Music. Suggestion: [Endless, Magic Sword](https://open.spotify.com/album/09qFu5fzhhZsizdR6w8wqd?si=7E5LKjuoQkmbi5rEjwS0lA)
+- [x] An open mind
+- [x] Internalized Github company values 
 
 ## Getting started
 
@@ -23,7 +24,7 @@ What things you need before you engage with this project:
 
 ## Deployment
 
-Just gotta shoot me an email at: skymacfadyen@gmail.com 
+Send an email to: skymacfadyen@gmail.com 
 
 ## Built With
 
@@ -31,7 +32,6 @@ Just gotta shoot me an email at: skymacfadyen@gmail.com
 * Dedication to craft
 * Relentless learning
 * Humility for diverse perspectives
-
 
 ## Contributing
 
@@ -67,5 +67,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * GitHub
 * GitHub CoPilot
-* All of the talented people I have worked with in my careers who helped shape the way I think about design, teams, and leadership.
-* Mom & Dad
+* All of the talented people I have worked with across my career who helped shape the way I think about design, teams, and leadership
+* Mom, Dad, and my two sisters
