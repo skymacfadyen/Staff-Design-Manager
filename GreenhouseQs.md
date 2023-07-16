@@ -77,8 +77,8 @@ Do you have experience strategizing, advocating for, and executing new brand ide
 - [ ] No
 
 Do you have a deep understanding and knowledge of the web as a powerful storytelling medium, and a proven track record of leading teams to explore the cutting-edge possibilities in modern web development, including webGL experiments, CSS art, and innovative JavaScript methodologies?
-- [x] Yes <sup>and always learning more.</sup>
-- [ ] No
+- [ ] Yes 
+- [x] No <sup>Deep and demonstrated? No, but familiar and burgeoning indeed.</sup>
 
 Do you currently or have you previously been employed as a Full-Time Employee or Intern at GitHub, Microsoft, LinkedIn, or a Microsoft affiliate (if yes, please indicate the most recent experience)?
 - [ ] Yes
