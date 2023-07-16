@@ -14,7 +14,7 @@ What things you need before you engage with this project:
 
 [A letter to Sam Oschrin and Hubbers](https://github.com/skymacfadyen/Staff-Design-Manager/wiki/A-letter-to-Sam-Oschin-and-Hubbers) — The Repo Wiki
 
-[The Role on Greenhouse](https://boards.greenhouse.io/github/jobs/5107333)
+[Greenhouse job posting](https://boards.greenhouse.io/github/jobs/5107333)
 
 [LinkedIn](https://www.linkedin.com/in/skymacfadyen/)
 
