@@ -65,19 +65,19 @@ Who is your current employer? _N/A if not applicable_
 >Twilio, Inc.
 
 Do you have 3+ years of experience managing a distributed design team at a fast paced company or agency?
-- [x] Yes <sup>+ 3+ years, but it's the experince in those years, not years of experience.</sup>
+- [x] Yes <sup>3+ years, but it's the experince in those years, not years of experience.</sup>
 - [ ] No
 
 Do you have the ability and experience in leading the implementation of complex brand redesigns, websites, and campaigns? 
-- [x] Yes — I am a veteran, battle-worn by complex roll-outs. 
+- [x] Yes <sup>I am a veteran, battle-worn by complex roll-outs.</sup>
 - [ ] No
 
 Do you have experience strategizing, advocating for, and executing new brand ideas and roadmaps that create energy and bring clarity to your team and stakeholders?
-- [x] Yes — oh, yeah baby!
+- [x] Yes <sup>oh yeah, parallelization of three rebrands across different versions of design systems.</sup>
 - [ ] No
 
 Do you have a deep understanding and knowledge of the web as a powerful storytelling medium, and a proven track record of leading teams to explore the cutting-edge possibilities in modern web development, including webGL experiments, CSS art, and innovative JavaScript methodologies?
-- [x] Yes — and always learning more.
+- [x] Yes <sup>and always learning more.</sup>
 - [ ] No
 
 Do you currently or have you previously been employed as a Full-Time Employee or Intern at GitHub, Microsoft, LinkedIn, or a Microsoft affiliate (if yes, please indicate the most recent experience)?
