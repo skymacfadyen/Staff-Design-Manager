@@ -39,16 +39,16 @@ Send an email to: skymacfadyen@gmail.com
 
 Contributing to Sky MacFadyen requires you work with him on one or more projects to develop your own perspective. You will inherently contribute to Sky MacFadyen. Here are a few contributors thus far:
 
->I couldn’t help but be impressed with his tireless attention to detail and tenacity to create the best work possible.
+>"I couldn’t help but be impressed with his tireless attention to detail and tenacity to create the best work possible."          
 >— Sam Lopez
 
->Schuyler is hands-down one of the most articulate and thoughtful designers I’ve ever had the opportunity to work with.
+>"Schuyler is hands-down one of the most articulate and thoughtful designers I’ve ever had the opportunity to work with."          
 >— Travis O'Niel
 
->He always comes to the table with thoughtful questions and owns every single project he is a part of.
+>"He always comes to the table with thoughtful questions and owns every single project he is a part of."          
 >—Liz Bryson
 
->He constantly challenges everyone to ask questions which result in better, sharper work.
+>"He constantly challenges everyone to ask questions which result in better, sharper work."          
 >— Danny Sauter
 
 ## Versioning
