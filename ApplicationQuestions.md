@@ -50,7 +50,7 @@ What do you think are some of the challenges of working remotely, and how would 
 
 >2. Creative collaboration — FigJam and Slack can make a dent in this, but there is more. First, making sure that all work is done in the open; access by default, asking for feedback in public channels, group work sessions with no-lyric, deep focus music. Being in the same video room, quietly listening to music can feel odd at first, but it does wonders for connection. I also frequently encourage sharing content my team has engaged in outside of work and bring it in—sharing; what delighted them on a personal level, what asking "how might we apply this to our methods?" 
 
->3. "I home from work" vibes — Some say work from home, but the inverse can be bad for mental health. My trick here is: act like we are in an office. In a chat channel for example, my team has built a habit of "entering the room" with a "Good morning,  Spending a couple moments at the beginning and end of the day to shoot the shit. Closing the computer is ceremonial. 
+>3. "I home from work" vibes — Some say work from home, but the inverse can be bad for mental health. My trick here is: act like we are in an office. In a chat channel for example, my team has built a habit of "entering the room" with a 'Good morning, anyone want to grab a bite?,'—spending a couple moments at the beginning and end of the day to shoot the shit and talk about our personal lives. Closing the computer is ceremonial. 
 
 How did you hear about this job?
 
