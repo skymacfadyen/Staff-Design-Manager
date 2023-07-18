@@ -29,7 +29,7 @@ Please provide your current location:
 
 Why do you want to work at GitHub?
 
-> It aligns with my long term goals and seems like the place I could grow exponentially, do the best work of my life with great people. Currently I am learning; TypeScript to build designer tooling in Figma, D3.js to play in the world of data journalism, and p5.js to give life to art. I’ll admit…it’s hard—but, I love it. As an insatiable and self-led learner my aim is to use my 10+ years of Creative experience in B2B/B2C/Tech to help tell stories that designers + developers are uniquely positioned to tell. Preferably, alongside the Hubbers at Github.
+> It aligns with my long term goals; a the place I could grow exponentially and do the best work of my life with great people. Currently I am learning; TypeScript to build designer tooling in Figma, D3.js to play in the world of data journalism, and p5.js to give life to art. I’ll admit…it’s hard—but, I love it. As an insatiable and self-led learner my aim is to use my 10+ years of Creative experience in B2B/B2C/Tech to help tell stories that designers + developers are uniquely positioned to tell. Preferably, alongside the Hubbers at Github.
 
 Please explain why you would be a good fit for this role?
 
