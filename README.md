@@ -11,8 +11,8 @@ What things you need before you engage with this project:
 
 ## Getting started
 
-[A letter to Sam Oschrin and Hubbers](https://github.com/skymacfadyen/Staff-Design-Manager/wiki/A-letter-to-Sam-Oschin-and-Hubbers)<sup> Repo Wiki</sup>          
-[A letter to Sam Oschrin and Hubbers](https://macfadyen.co/github)<sup> Web version</sup>
+[A letter to Sam Oshin and Hubbers](https://github.com/skymacfadyen/Staff-Design-Manager/wiki/A-letter-to-Sam-Oshin-and-Hubbers)<sup> Repo Wiki</sup>          
+[A letter to Sam Oshin and Hubbers](https://macfadyen.co/github)<sup> Web version</sup>
 
 [LinkedIn](https://www.linkedin.com/in/skymacfadyen/)          
 [Resume](https://github.com/skymacfadyen/Staff-Design-Manager/issues/1#issue-1806371807)          
