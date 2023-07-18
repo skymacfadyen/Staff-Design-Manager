@@ -29,19 +29,19 @@ Please provide your current location:
 
 Why do you want to work at GitHub?
 
-> GitHub has a great employer brand and I would learn a ton. Furthermore, it aligns with the journey I am on; learning TypeScript to build designer tooling in Figma, D3.js to play in the world of data journalism, and p5.js to give life to art. I’ll admit…it’s hard—but, I love it. As an insatiable and self-led learner my aim is to use my 10+ years of Creative experience in B2B/B2C/Tech to help tell stories that designers + developers are uniquely positioned to tell. Preferably, alongside the Hubbers at Github.
+> It aligns with my long term goals and seems like the place I could grow exponentially, do the best work of my life with great people. Currently I am learning; TypeScript to build designer tooling in Figma, D3.js to play in the world of data journalism, and p5.js to give life to art. I’ll admit…it’s hard—but, I love it. As an insatiable and self-led learner my aim is to use my 10+ years of Creative experience in B2B/B2C/Tech to help tell stories that designers + developers are uniquely positioned to tell. Preferably, alongside the Hubbers at Github.
 
 Please explain why you would be a good fit for this role?
 
 > **It's we, not me**—I believe that each team member's actions can be a positive reflection of the collective. And when one member fumbles, we are all there to help. In an effort to lead by example, I put my own growth out in the open sharing with my team things that go well or things I want to improve on. By focusing on team culture and ownerships, while making space for individual expression, I frequently ask "What do we want our brand to be?" and "How are we building towards that together?" 
 
-> **Social and emotional awareness**—I have a spidey sense that piques when I suspect scope creep, misaligned stakeholder expectations, or mounting design debt, in the interest of setting up the team for success. If I sense that someone was frustrated, sad, discouraged, rude, or otherwise I call it out in an appropriate setting, so that we can ensure we are observing the same thing and grow from there. Being aware of my own tendencies allows me to overcompensate for tone and while I have perfectionist tendencies myself, I know there is a right and wrong time to activate them. In leadership, I allow my bar for quality to be a goal post with clearly documented steps about how to get there.
+> **Social and emotional awareness**—I have a spidey sense that piques when I suspect scope creep, misaligned stakeholder expectations, or mounting design debt, in the interest of setting up the team for success. If I sense that someone was frustrated, sad, discouraged, rude, or otherwise I call it out in an appropriate setting, so that we can ensure we are observing the same thing and grow from there. Being aware of my own proclivities allows me to overcompensate for tone and while I have perfectionist tendencies myself, I know there is a right and wrong time to activate them. In leadership, I allow my bar for quality to be a goal post with clearly documented steps about how to get there.
 
-> **I mind my words**—They're important. Sometimes I speak in CSS saying, "the margin (hypen) bottom" or maybe, "Let's use --brand-primary there" in reference to the color variable when clarity is paramount. Throughout the day I reference the dictionary, pushing myself to learn new words or double check the definition in case it might be misinterpreted before sending a gentle bump. In some cases, [Knowyourmeme.com](https://knowyourmeme.com/) helps me stay in touch with the lightning growth of culture. When connection is important I speak like a human, with every bit of imperfection innate to us.
+> **I mind my words**—They're important. Sometimes I speak in CSS saying, "the margin (hypen) bottom" or maybe, "Let's use `--brand-primary` there" in reference to the color variable when clarity is paramount. Throughout the day I reference the dictionary, pushing myself to learn new words or double check the definition in case it might be misinterpreted before sending a gentle bump. In some cases, [Knowyourmeme.com](https://knowyourmeme.com/) helps me stay in touch with the lightning growth of culture. When connection is important I speak like a human, with every bit of imperfection innate to us.
 
 Have you ever worked remotely before?
 
->Since before it was cool. Seriously, since 2019.
+>Yep, since August 2019.
 
 What do you think are some of the challenges of working remotely, and how would you address them?
 >Great question.
